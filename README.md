@@ -1,6 +1,6 @@
 # VDF Languages for NotepadPlusPlus
  
-This is a set of modified NP++  languages for <code>Valve Developer Files</code><br>
+This is a set of modified NP++  languages for [Valve Data Files](https://developer.valvesoftware.com/wiki/VDF)<br>
 The originals were taken from the Valve Developer Community, but then were altered and expanded to include one more language, and more keywords that were missing.
 
 ### Contains Syntax highlighting for the following files:
